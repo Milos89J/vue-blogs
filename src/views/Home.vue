@@ -27,7 +27,7 @@ export default {
        {
          title: "While this",
          blogHTML: "While this does merge in the PR into the master branch",
-         blogPhoto: "designed-for-everything",
+         blogPhoto: "designed-for-everyone",
        },
      ]
    }
